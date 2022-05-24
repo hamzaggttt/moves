@@ -1,0 +1,43 @@
+
+*{  
+    text-decoration: none;
+    list-style: none;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+
+
+body {    
+    font-family: sans-serif;
+    position: relative;
+    bottom: -10px;
+    padding-top: 0px;
+    background-color:#082032;
+    direction: center;
+    margin: 0;
+    padding: 0;
+}
+.hamz{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 20px;
+    text-decoration: none;
+    background-color:#343a40;
+    width: 99%;
+    border-radius: 0px 0px 60px 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:  -30px; 
+}
+img{
+    transition: 0.7s ease;
+    padding-top: 15px;
+}
+img:hover{
+    transform: scale(1.1);
+    
+}
+
+
+

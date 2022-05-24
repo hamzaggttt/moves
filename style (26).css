@@ -1,0 +1,36 @@
+*{
+    text-decoration: none;
+    list-style: none;
+}
+
+
+
+
+body {
+    font-family: sans-serif;
+    position: relative;
+    bottom: 0px;
+    padding-top: 200px;
+    background-color:#082032;
+    direction: rtl;
+}
+.hamz{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 20px;
+    text-decoration: none;
+    background-color:#343a40;
+    width: 99%;
+    border-radius: 0px 0px 60px 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:  -227px; 
+}
+.left{
+    margin-right: 1300px;
+    color:aliceblue;
+}
+a{
+    color:#fff;
+}
+    

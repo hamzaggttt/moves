@@ -1,0 +1,198 @@
+*{
+    text-decoration: none;
+    list-style: none;
+    }
+    
+    body {
+        font-family: sans-serif;
+        position: relative;
+        bottom: 0px;
+        padding-top: 200px;
+        background-color:#082032;
+        direction: rtl;
+    }
+    
+    .fon{
+        position: relative;
+        padding-right: 250px;
+        top: -310px;
+    }
+    .hamz{
+        display: flex;
+        justify-content: space-around;
+        padding-bottom: 20px;
+        text-decoration: none;
+        background-color:#343a40;
+        width: 99%;
+        border-radius: 0px 0px 60px 60px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top:  -227px; 
+    }
+    .main-bot{
+        margin-top:5px;
+        }
+    .main-btn100{
+    color: #fff;
+    background-color:rgba(255, 255, 255, 0.05);
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 600;
+    display: inline-block;
+    padding: 10px 60px;
+    letter-spacing: 1px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    margin-top: -100px;
+    transition: 0.7s ease;
+    margin-right: 900px;
+    }
+    .main-btn100:hover{
+    opacity: 0.8;
+    transform: scale(1.1);
+    }
+    .main-btn {
+    color: #fff;
+    background-color: #fc1d1d;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 600;
+    display: inline-block;
+    padding: 10px 55px;
+    letter-spacing: 1px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    margin-top: -100px;
+    transition: 0.7s ease;
+    margin-right: 900px;
+    }
+        
+    .main-btn:hover {
+    opacity: 0.8;
+    transform: scale(1.1);
+    }
+    .main-btn1 {
+    color: #fff;
+    background-color: rgb(0, 119, 255);
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 600;
+    display: inline-block;
+    padding: 10px 60px;
+    letter-spacing: 1px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    margin-top: -100px;
+    transition: 0.7s ease;
+    margin-right: 900px;
+    }
+        
+        .main-btn1:hover {
+            transform: scale(1.1);
+           opacity: 0.8;
+        }
+        .main-btn2{
+            color: #fff;
+            background-color: rgba(255, 255, 255, 0.05);
+            text-decoration: none;
+            font-size: 1.1em;
+            font-weight: 600;
+            display: inline-block;
+            padding: 10px 60px;
+            letter-spacing: 1px;
+            border-radius: 15px;
+            margin-bottom: 10px;
+            margin-top: -100px;
+            transition: 0.7s ease;
+            margin-right: 1150px;
+        }
+        .main-btn2:hover{
+            transform: scale(1.1);
+            opacity: 0.8; 
+        }
+        .main-btn3{
+            margin-top: 500px;
+            color: #fff;
+            background-color: #fc1d1d;
+            text-decoration: none;
+            font-size: 1.1em;
+            font-weight: 600;
+            display: inline-block;
+            padding: 10px 60px;
+            letter-spacing: 1px;
+            border-radius: 15px;
+            margin-bottom: 10px;
+            margin-top: -100px;
+            transition: 0.7s ease;
+            margin-right: 100px;
+        }
+        .main-btn3:hover{
+            transform: scale(1.1);
+            opacity: 0.8; 
+        }
+        .main-btn4{
+            margin-top: 500px;
+            color: #fff;
+            background-color:rgb(0, 119, 255)  ;
+            text-decoration: none;
+            font-size: 1.1em;
+            font-weight: 600;
+            display: inline-block;
+            padding: 10px 60px;
+            letter-spacing: 1px;
+            border-radius: 15px;
+            margin-bottom: 10px;
+            margin-top: -100px;
+            transition: 0.7s ease;
+            margin-right: 50px;
+        }
+        .main-btn4:hover{
+            transform: scale(1.1);
+            opacity: 0.8; 
+        }
+    .tab{
+    width: 50px;
+    height: 60px;
+    padding-right: 15px;
+    position: absolute;
+    top:80%;
+    right: 7%;
+    
+    }
+    .tab1{
+    width: 50px;
+    height: 60px;
+    padding-right: 15px;
+    position: absolute;
+    top:80%;
+    right: 13%;
+    }
+    .p{
+    margin-top: 2px;
+    }
+    .text{
+    margin-right: 1px;
+    }
+    .type{
+    margin-top: 20px;
+    }
+    .watch{
+    padding:20px;
+    font-size: 30px;
+    }
+    img{
+        transition: 0.7s ease;
+        padding: 0 6px;
+    }
+    img:hover{
+        transform: scale(1.1);
+    }
+    .left{
+        margin-right: 1300px;
+        color:#fff;
+        background:fixed;
+    }
+    a{
+      color: #fff;
+    }
+    
